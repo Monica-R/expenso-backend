@@ -1,0 +1,6 @@
+node_modules
+.env
+
+# Ignore OS generated files (Mac and Windows)
+.DS_Store
+Thumbs.db
