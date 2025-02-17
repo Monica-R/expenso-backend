@@ -1,5 +1,5 @@
 {
-  "initialBalance": 3335,
+  "initialBalance": [3335],
   "movements": [
     {
       "id": 1,
