@@ -2,7 +2,7 @@
 
 Este es el backend de Expenso, una aplicación de finanzas personales que permite gestionar ingresos y gastos. Se ha construido con JSON Server para simular una API REST, proporcionando un CRUD funcional para las transacciones.
 
-Instalación y ejecución
+## Instalación y ejecución
 
 Clonar el repositorio:
 
@@ -26,7 +26,7 @@ O en modo producción:
 bun run start
 
 
-Endpoints disponibles
+## Endpoints disponibles
 
 GET /movements → Obtiene todas las transacciones
 
