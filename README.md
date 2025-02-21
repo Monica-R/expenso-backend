@@ -1,4 +1,4 @@
-Expenso Backend
+# Expenso Backend
 
 Este es el backend de Expenso, una aplicación de finanzas personales que permite gestionar ingresos y gastos. Se ha construido con JSON Server para simular una API REST, proporcionando un CRUD funcional para las transacciones.
 
